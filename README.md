@@ -9,3 +9,5 @@ A nice extension would be to actually modify this program so that one can alter 
 parameter from the config.xml file. It could provide an interface where one can add parameters
 and the values one would like to assign to them. Then during startup the programme would apply
 the values.
+
+A compiled APK can be downloaded from my [Bintray site](https://bintray.com/sebastianst/Android/UnsafeVolumeXposedMod).
